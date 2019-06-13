@@ -1,0 +1,2 @@
+# ejemploGrupal
+EjemploGrupal usando GitHub
